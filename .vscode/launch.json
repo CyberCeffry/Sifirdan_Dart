@@ -11,7 +11,8 @@
             "name": "Dart & Flutter",
             "request": "launch",
             "type": "dart",
-            "program": "${file}"
+            "program": "${file}",
+            "console": "terminal"
         }
     ]
 }
